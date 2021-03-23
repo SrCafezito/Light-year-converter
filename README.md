@@ -16,3 +16,8 @@
 ### Agradecimentos especiais
 
 - 🎵 `@Alura`
+
+### Código
+
+- 👻 [`@Código editado`](https://codepen.io/srcafezito/details/poRowdy)
+
