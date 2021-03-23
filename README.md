@@ -11,7 +11,7 @@
 
 - 🌱 `@rafaballerini`
 - 💎 `@Guilherme Lima`
-- 📣 `Paulo Silveira`
+- 📣 `@Paulo Silveira`
 
 ### Agradecimentos especiais
 
